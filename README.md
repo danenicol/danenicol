@@ -1,6 +1,6 @@
 <img width="624" height="313" alt="pixel-art-jeff" src="https://github.com/user-attachments/assets/57383ec9-b3a1-4cda-8e18-5355bab9426f" />
 
-# :wave: About me! 
+# :wave: About me
 #### My name is Dane Nicol and I am an electrical engineering student at San Diego State University (B.S 2027) specializing in analog systems, signal processing, and integrated circuit development.
 # :desktop_computer: Software
 
