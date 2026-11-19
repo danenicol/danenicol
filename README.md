@@ -2,7 +2,7 @@
 
 # :wave: About me! 
 #### My name is Dane Nicol and I am an electrical engineering student at San Diego State University (B.S 2027) specializing in analog systems, signal processing, and integrated circuit development.
-## :desktop_computer: Software
+# :desktop_computer: Software
 
 ### :chart_with_downwards_trend: Circuit Design & Simulation:
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0e1eb423-bb23-4f8f-b6b0-b7159df3ec0e" /> Kicad (PCB/Schematic/NGspice) ||| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/30be2924-e308-43df-b472-e9149d8833ca" /> LibrePCB (PCB/Schematic) ||| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/c4277263-0b8f-43ad-9d32-c0bbe9bc0038" /> LTspice (Analog Spice) ||| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/bb24d52d-2dc5-4e5d-98e4-2557a48f589d" /> Xschem (Schematic Frontend + Ngpsice) ||| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/61cc619b-eb04-46c3-a91e-c532c555f86b" /> Qucs-S (Schematic/RF spice)
@@ -19,10 +19,10 @@
 ### :file_folder: Documentation, Drawing & Misc:
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/43396992-7701-4a81-8229-d100b6928aeb" /> TeXstudio (LaTeX/publishing) ||| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/97caa9d3-30db-43d9-9499-27d945f25d10" /> LibreCAD (2D Technical Drawing) ||| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d5193c9a-0aeb-4991-a08c-f0585c0c3ff7" /> Avogadro (Molecular Modeling)
 
-## :keyboard: Languages
+# :keyboard: Languages
 C (professional working) <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4633be39-0629-4ad2-87ad-6321d02f1527" /> | MIPS Assembly (professional working) <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3f47434b-a40f-4bc3-aa93-4eb3e2937f59" /> | Python (intermediate working) <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/41def00c-e2f6-444e-a8d6-670f36f87f3d" /> | English (native) :us: | Mandarin Chinese - Simplified (Intermediate) :cn:
 
-## :computer_mouse: Skills
+# :computer_mouse: Skills
 Small Signal Analysis <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a19b1104-8e37-4fc6-abfa-a3ec73985217" /> | Control Systems <img width="50" height="20" alt="image" src="https://github.com/user-attachments/assets/407c7e2c-664c-4495-acb2-cc9fbc402e73" /> | Neuromorphic Computing <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/84bb9c95-aea4-4f99-ab98-68dea1e40482" /> | Analog Systems (Signal-Processing/RF&microwave/Power-Systems) <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/fb2e83cf-d0f0-4f90-bc63-ae12ceeee0e7" /> | Digital Systems (Architecutre/DSP/I&O/Microcontrollers)  <img width="30" height="20" alt="image" src="https://github.com/user-attachments/assets/f40a3888-df8f-456d-bbaf-b6b8942bd8ca" /> | Integrated Circuit Development <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5ed89568-6b09-40af-8258-15982db9e8bd" />
 
 
